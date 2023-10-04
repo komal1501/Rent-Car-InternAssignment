@@ -17,6 +17,6 @@ This repository contains the Frontend of the Rent-Car website where the user can
 ## JavaScript
 
 # To run this project in your system:
-Step-1: `npm install`, to install the dependencies
-Step-2: `npm start`, the website will run in development mode on [http://localhost:3000]
+- Step-1: `npm install`, to install the dependencies
+- Step-2: `npm start`, the website will run in development mode on [http://localhost:3000]
 
